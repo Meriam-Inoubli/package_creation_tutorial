@@ -1,5 +1,5 @@
 import unittest
-from package_creation_tutorial.string_ops import (reverse_string, 
+from src.package_creation_tutorial.string_ops import (reverse_string, 
                                                   count_vowels, 
                                                   capitalize_words)
 
