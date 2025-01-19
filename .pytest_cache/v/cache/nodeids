@@ -1,0 +1,6 @@
+[
+  "tests/test_string_ops.py::TestStringOps::test_capitalize_words",
+  "tests/test_string_ops.py::TestStringOps::test_capitalize_words_failing",
+  "tests/test_string_ops.py::TestStringOps::test_count_vowels",
+  "tests/test_string_ops.py::TestStringOps::test_reverse_string"
+]
